@@ -5,7 +5,5 @@ import org.springframework.stereotype.Repository;
 import com.compliance.phs340b.doa.Employee;
 
 @Repository
-public interface EmployeeRepository extends JpaRepository<Employee, Long>{
-
-}
+public interface EmployeeRepository extends JpaRepository<Employee, Long> {}
 
