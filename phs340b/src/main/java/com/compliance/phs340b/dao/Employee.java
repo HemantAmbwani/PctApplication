@@ -1,4 +1,4 @@
-package com.compliance.phs340b.doa;
+package com.compliance.phs340b.dao;
 
 import javax.persistence.Column;
 import jakarta.persistence.Entity;

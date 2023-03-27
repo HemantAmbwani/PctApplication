@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.compliance.phs340b.exception.ResourceNotFoundException;
-import com.compliance.phs340b.doa.Employee;
+import com.compliance.phs340b.dao.Employee;
 import com.compliance.phs340b.repositories.EmployeeRepository;
 
 @CrossOrigin(origins = "http://localhost:4200")
